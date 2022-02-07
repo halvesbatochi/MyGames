@@ -206,13 +206,16 @@
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="ADICIONAR"/>
                                 <connections>
-                                    <action selector="addEditCover:" destination="BwT-ec-eYt" eventType="touchUpInside" id="Kwe-K0-dqs"/>
+                                    <action selector="addEditGame:" destination="BwT-ec-eYt" eventType="touchUpInside" id="F70-1A-3aN"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="tRE-rg-xRz">
                                 <rect key="frame" x="16" y="547" width="382" height="31"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="Toque para adicionar a imagem de capa"/>
+                                <connections>
+                                    <action selector="addEditCover:" destination="BwT-ec-eYt" eventType="touchUpInside" id="Jwp-lQ-GDN"/>
+                                </connections>
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="oP9-0y-1WB"/>
@@ -248,6 +251,7 @@
                     </view>
                     <navigationItem key="navigationItem" title="Adicionar novo jogo" largeTitleDisplayMode="never" id="j15-M6-FyY"/>
                     <connections>
+                        <outlet property="btAddEdit" destination="enZ-MM-7A6" id="ANN-4w-8Xh"/>
                         <outlet property="btCover" destination="tRE-rg-xRz" id="QGB-Kb-HBF"/>
                         <outlet property="dpReleaseDate" destination="Omo-g6-rmf" id="yva-dd-8Pn"/>
                         <outlet property="ivCover" destination="cec-mb-aAs" id="Thz-Mq-ScI"/>
