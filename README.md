@@ -65,32 +65,29 @@ Englobando todos esses tem o
     
 ## Snapshots
 
-<p align="center">
-    <img src="1.png" width="200">  
-    <br/>
-</p>
-<p align="center">
-    <img src="2.png" width="200"> 
-    <br/> 
-</p>
-<p align="center">
-    <img src="3.png" width="200">  
-    <br/>
-</p>
-<p align="center">
-    <img src="4.png" width="200"> 
-    <br/> 
-</p>
-<p align="center">
-    <img src="5.png" width="200">  
-    <br/>
-</p>
-<p align="center">
-    <img src="6.png" width="200">  
-    <br/>
-</p>
-<p align="center">
-    <img src="7.png" width="200"> 
-    <br/> 
-</p>
+
+<img src="1.png" width="200">  
+<br/>
+
+<img src="2.png" width="200"> 
+<br/> 
+
+<img src="3.png" width="200">  
+<br/>
+
+<img src="4.png" width="200"> 
+<br/> 
+
+
+<img src="5.png" width="200">  
+<br/>
+
+
+<img src="6.png" width="200">  
+<br/>
+
+
+<img src="7.png" width="200"> 
+<br/> 
+
 
