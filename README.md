@@ -63,4 +63,8 @@ Englobando todos esses tem o
     * Propriedades computadas
     * Segue
     
+## Snapshots
 
+<p align="center">
+    <img src="1.png" width="200">  
+</p>
