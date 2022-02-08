@@ -28,7 +28,9 @@ Englobando todos esses tem o
 
 * **PERSISTENT CONTAINER:** gerencia toa a criação da Stack descrita anteriormente
 
-<img src="8.png" width="600">  
+<p align="center">
+    <img src="8.png" width="600">  
+</p>
 
 ## Conceitos abordados
 
