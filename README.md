@@ -9,9 +9,12 @@ Persistência de dados utilizando um "banco de dados".
 
 É uma das melhores formas de persistência de dados de um aplicativo, sendo uma das possibilidades mais robusta no desenvolvimento iOS. Com o Core Data você ganha um pouco mais de segurança se comparado ao UserDefaults.
 
-   >[!NOTE]
-   >
-   >Core Data não é um banco de dados e sim um *Gerenciador de Grafos* que também inclui uma persistência (SQLite, XML, etc)
+   >Core Data não é um banco de dados e sim um **Gerenciador de Grafos** que também inclui uma persistência (SQLite, XML, etc)
+   
+Os dados persistidos estão organizados em linhas, colunas e tabelas.
+É um framework utilizado para trabalhar a camada **MODEL** da sua aplicação. Permite persistir informações em um aplicativo utilizando banco de dados, de uma forma orientada a objetos.
+   
+   > O Core Data trabalha (agrupa, filtra e organiza) os dados em memória.
 
 ## Conceitos abordados
 
