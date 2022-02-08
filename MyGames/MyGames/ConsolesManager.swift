@@ -27,6 +27,7 @@ class ConsolesManager {
         context.delete(console)
         do {
             try context.save()
+            consoles.remove(at: index)
         } catch {
             print(error.localizedDescription)
         }
